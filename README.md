@@ -2,12 +2,12 @@
 I'm TheBrokenRail (he/him)! I like creating projects and learning new things!
 
 ### My projects!
-* [Minecraft: Pi Edition: Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) is a modding prject for Minecraft: Pi Edition, an abandoned version of Minecraft: Pocket Edition for the Raspberry Pi from 2013.
+* [Minecraft: Pi Edition: Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) is a modding project for Minecraft: Pi Edition, an abandoned version of Minecraft: Pocket Edition for the Raspberry Pi from 2013.
 * [Let's Code (closed source)](https://play.google.com/store/apps/details?id=com.thebrokenrail.letscode) is an Android app that lets you code on your phone/tablet.
 
 ### Some neat projects you should check out!
-* [Darling](https://github.com/darlinghq/darling) is a compatibility layer that allows you to run macOS programs on Linux, it's similar to Wine.
-* [Minetest](https://github.com/minetest/minetest) is an open-source game engien isnpired by Minecraft.
+* [Darling](https://github.com/darlinghq/darling) is a compatibility layer similar to Wine that allows you to run macOS programs on Linux.
+* [Minetest](https://github.com/minetest/minetest) is an open-source game engien inspired by Minecraft.
 * The [PinePhone](https://www.pine64.org/pinephone/) is an open-source phone that runs Linux.
 * [Termux](https://github.com/termux/termux-app) is a terminal emulator for Android.
 * [QuickJS](https://bellard.org/quickjs/) is a small JavaScript engine.
