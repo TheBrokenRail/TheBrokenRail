@@ -15,4 +15,3 @@ I'm TheBrokenRail (he/him)! I like creating projects and learning new things!
 ### How you can reach me?
 * [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=TheBrokenRail&color=181717&logo=github&logoColor=white&style=flat)](https://github.com/TheBrokenRail)
 * [![Discord](https://img.shields.io/static/v1?label=Discord&message=TheBrokenRail%235376&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/385604875179786241)
-* [![Reddit](https://img.shields.io/static/v1?label=Reddit&message=TheBrokenRail-Dev&color=FF4500&logo=reddit&logoColor=white&style=flat)](https://www.reddit.com/user/TheBrokenRail-Dev)
