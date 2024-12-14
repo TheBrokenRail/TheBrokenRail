@@ -7,7 +7,7 @@ I'm TheBrokenRail (he/him)! I like creating projects and learning new things!
 
 ### Some neat projects you should check out!
 * [Darling](https://github.com/darlinghq/darling) is a compatibility layer similar to Wine that allows you to run macOS programs on Linux.
-* [Minetest](https://github.com/minetest/minetest) is an open-source game engien inspired by Minecraft.
+* [Minetest](https://github.com/minetest/minetest) is an open-source game engine inspired by Minecraft.
 * The [PinePhone](https://www.pine64.org/pinephone/) is an open-source phone that runs Linux.
 * [Termux](https://github.com/termux/termux-app) is a terminal emulator for Android.
 * [QuickJS](https://bellard.org/quickjs/) is a small JavaScript engine.
